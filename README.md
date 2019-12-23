@@ -1,2 +1,2 @@
 # neutrinos_assignment
-for project assignmen
+for project assignment
